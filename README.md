@@ -6,7 +6,7 @@ Event Management System is a web application built using Java for event registra
 
 ## Tools required
 * 1.JDK(1.8) 
-* 2.IDE- NetBeans 
-* 3. Java EE version 8
+* 2.IDE - NetBeans 
+* 3.Java EE version 8
 * 4.Oracle or MySQL DB
 * 5.Glassfish server / Tomcat server
